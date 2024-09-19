@@ -3,7 +3,7 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #e310a7;
+    --color-primary: #ffff00;
     --color-on-primary: white;
     --color-error: #ff0000;
     --color-on-error: white;
@@ -12,12 +12,12 @@
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: #f52795;
+    --color-background: #fbff00;
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #b3194f;
-    --color-primary-disabled: #994260;
+    --color-primary: #ff00e6;
+    --color-primary-disabled: #78075c;
     --color-on-primary: white;
     --color-error: #ff0000;
     --color-on-error: white;
