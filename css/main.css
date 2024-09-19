@@ -3,23 +3,23 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #0066ff;
+    --color-primary: #e310a7;
     --color-on-primary: white;
-    --color-error: #de0000;
+    --color-error: #ff0000;
     --color-on-error: white;
 }
 
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: #1c1b1f;
+    --color-background: #f52795;
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #283593;
-    --color-primary-disabled: #1f213c;
+    --color-primary: #b3194f;
+    --color-primary-disabled: #994260;
     --color-on-primary: white;
-    --color-error: #de0000;
+    --color-error: #ff0000;
     --color-on-error: white;
 }
 
