@@ -17,6 +17,6 @@ jobs:
           git fetch --unshallow
           git pull origin main
           git checkout
-          git pull origin production
+          git pull origin
           git merge main --no-ff --no-edit
-          git push origin
+          git push origin  production
