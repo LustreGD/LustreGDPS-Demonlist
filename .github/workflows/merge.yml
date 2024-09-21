@@ -16,7 +16,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git fetch --unshallow
           git pull origin main
-          git checkout
-          git pull origin production
+          git checkout production
+          git pull origin
           git merge main --no-ff --no-edit
-          git push origin production
+          git push origin
