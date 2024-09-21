@@ -19,4 +19,4 @@ jobs:
           git checkout production
           git pull origin production
           git merge main --no-ff --no-edit
-          git push origin
+          git push origin production
